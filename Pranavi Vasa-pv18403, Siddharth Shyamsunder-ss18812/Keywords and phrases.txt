@@ -1,0 +1,4183 @@
+After Indexing Keywords for,https://www.essex.ac.uk/departments/computer-science-and-electronic-engineeringWe have:
+
+Index	Keywords
+1	Committee	
+2	Programme	
+3	Co	
+4	ECIR	
+5	2015	
+6	2014	
+7	courses	
+8	2016	
+9	2013	
+10	Workshop	
+11	Campus	
+12	your	
+13	Organiser	
+14	SIGIR	
+15	facilities	
+16	Retrieval	
+17	2012	
+18	Conference	
+19	We	
+20	computer	
+21	Undergraduate	
+22	Chair	
+23	Web	
+24	Dr	
+25	Study	
+26	Masters	
+27	LAC	
+28	2011	
+29	Solutions	
+30	2010	
+31	papers	
+32	Track	
+33	degrees	
+34	Postgraduate	
+35	Departments	
+36	Contact	
+37	any	
+38	Our	
+39	Udo	
+40	IR	
+41	Industry	
+42	ACM	
+43	KTP	
+44	workshop	
+45	FDIA	
+46	science	
+47	robotics	
+48	areas	
+49	CPD	
+50	excellence	
+51	Find	
+52	course	
+53	Unable	
+54	suggestions	
+55	query	
+56	industry	
+57	imagination	
+58	choose	
+59	community	
+60	labs	
+61	specialist	
+62	opportunities	
+63	creative	
+64	WISE	
+65	Kruschwitz	
+66	Language	
+67	Group	
+68	Intelligence	
+69	LREC	
+70	Signal	
+71	ACL	
+72	2009	
+73	2008	
+74	YPA	
+75	Intelligent	
+76	full	
+77	Senior	
+78	CIKM	
+79	RANLP	
+80	co	
+81	IEEE	
+82	WIC	
+83	IRF	
+84	Access	
+85	variety	
+86	electronic	
+87	abroad	
+88	living	
+89	Sport	
+90	Southend	
+91	Loughton	
+92	services	
+93	showcase	
+94	requests	
+95	Excellence	
+96	Framework	
+97	REF	
+98	institutes	
+99	centres	
+100	Expertise	
+101	business	
+102	Facilities	
+103	About	
+104	Events	
+105	Jobs	
+106	Alumni	
+107	Staff	
+108	People	
+109	Browse	
+110	site	
+111	cookies	
+112	their	
+113	cookie	
+114	policy	
+115	View	
+116	committed	
+117	computing	
+118	postgraduate	
+119	levels	
+120	people	
+121	curriculum	
+122	work	
+123	ll	
+124	benefit	
+125	Economic	
+126	provide	
+127	environment	
+128	staff	
+129	help	
+130	awards	
+131	Feb	
+132	Get	
+133	would	
+134	like	
+135	question	
+136	All	
+137	enquiries	
+138	ARE	
+139	US	
+140	Extraction	
+141	London	
+142	involving	
+143	November	
+144	Project	
+145	Experience	
+146	demos	
+147	CHIIR	
+148	AAAI	
+149	AIRS	
+150	Gamification	
+151	ESWC	
+152	Hybrid	
+153	Translation	
+154	IIiX	
+155	Future	
+156	Directions	
+157	Document	
+158	Springer	
+159	Natural	
+160	I	
+161	am	
+162	Computation	
+163	language	
+164	techniques	
+165	example	
+166	now	
+167	Rights	
+168	Data	
+169	Doctoral	
+170	EPSRC	
+171	Partnership	
+172	human	
+173	Miguel	
+174	Award	
+175	Recent	
+176	PEBL	
+177	IRSG	
+178	NAACL	
+179	HLT	
+180	19	
+181	User	
+182	Modeling	
+183	Personalization	
+184	WSDM	
+185	Demos	
+186	Scientific	
+187	GamifIR	
+188	JCDL	
+189	KONVENS	
+190	Reviewing	
+191	Program	
+192	Approaches	
+193	HyTra	
+194	Demo	
+195	Review	
+196	offer	
+197	games	
+198	communications	
+199	uk	
+200	electrical	
+201	Are	
+202	Subject	
+203	Life	
+204	New	
+205	Welcome	
+206	Before	
+207	arrive	
+208	families	
+209	Gateway	
+210	Recruit	
+211	graduates	
+212	Apprenticeships	
+213	Days	
+214	Tours	
+215	Sustainability	
+216	Global	
+217	Site	
+218	Select	
+219	Level	
+220	uses	
+221	By	
+222	continuing	
+223	browse	
+224	consenting	
+225	Please	
+226	visit	
+227	why	
+228	Degrees	
+229	Careers	
+230	Accreditation	
+231	Scholarships	
+232	Equality	
+233	inclusion	
+234	Working	
+235	Creative	
+236	experimental	
+237	From	
+238	businesses	
+239	run	
+240	smoothly	
+241	gaming	
+242	simulating	
+243	many	
+244	everyday	
+245	processes	
+246	basis	
+247	while	
+248	advances	
+249	electronics	
+250	made	
+251	internet	
+252	innovative	
+253	telecommunications	
+254	inexpensive	
+255	possible	
+256	At	
+257	teach	
+258	undergraduate	
+259	masters	
+260	all	
+261	these	
+262	changing	
+263	lives	
+264	underpins	
+265	tomorrow	
+266	must	
+267	technologies	
+268	stay	
+269	step	
+270	ahead	
+271	so	
+272	constantly	
+273	evolving	
+274	driven	
+275	creativity	
+276	technical	
+277	re	
+278	not	
+279	typical	
+280	geeks	
+281	You	
+282	unique	
+283	experience	
+284	inspiring	
+285	purpose	
+286	built	
+287	consistently	
+288	ranking	
+289	satisfaction	
+290	needs	
+291	guided	
+292	Industrial	
+293	Advisory	
+294	experts	
+295	includes	
+296	representatives	
+297	companies	
+298	Intel	
+299	Regardless	
+300	develop	
+301	skills	
+302	principles	
+303	rewarding	
+304	exceptional	
+305	laboratories	
+306	several	
+307	exclusively	
+308	brain	
+309	interfaces	
+310	embedded	
+311	lasers	
+312	photonics	
+313	networking	
+314	laboratory	
+315	teaching	
+316	Computational	
+317	Finance	
+318	Agents	
+319	Why	
+320	Year	
+321	Times	
+322	Higher	
+323	Education	
+324	Awards	
+325	Top	
+326	TGUG	
+327	placement	
+328	88	
+329	professional	
+330	employment	
+331	within	
+332	six	
+333	months	
+334	graduating	
+335	DLHE	
+336	Specialist	
+337	Unexpectedly	
+338	Flexible	
+339	accredited	
+340	allowing	
+341	own	
+342	specialisation	
+343	Explore	
+344	taught	
+345	combining	
+346	formal	
+347	instruction	
+348	powerhouse	
+349	active	
+350	stimulating	
+351	carry	
+352	doctoral	
+353	extensive	
+354	CSEE	
+355	both	
+356	wonderful	
+357	things	
+358	society	
+359	education	
+360	strengths	
+361	working	
+362	safe	
+363	designed	
+364	inquisitive	
+365	minds	
+366	be	
+367	Come	
+368	along	
+369	ride	
+370	life	
+371	Professor	
+372	Anthony	
+373	Vickers	
+374	school	
+375	Use	
+376	innovate	
+377	placements	
+378	internships	
+379	Partnerships	
+380	membership	
+381	campaign	
+382	progress	
+383	gender	
+384	equality	
+385	Membership	
+386	means	
+387	raise	
+388	profile	
+389	female	
+390	STEM	
+391	link	
+392	them	
+393	Career	
+394	In	
+395	response	
+396	Athena	
+397	SWAN	
+398	initiative	
+399	selection	
+400	created	
+401	networks	
+402	training	
+403	specifically	
+404	women	
+405	Latest	
+406	hopes	
+407	shape	
+408	future	
+409	wireless	
+410	thanks	
+411	mobility	
+412	20	
+413	First	
+414	prosthetic	
+415	hand	
+416	tactile	
+417	sensations	
+418	dexterity	
+419	successfully	
+420	implanted	
+421	05	
+422	Council	
+423	boost	
+424	impact	
+425	31	
+426	Jan	
+427	touch	
+428	ask	
+429	please	
+430	complete	
+431	form	
+432	Ask	
+433	Click4Assistance	
+434	UK	
+435	Live	
+436	Chat	
+437	Software	
+438	Telephone	
+439	01206	
+440	872770	
+441	WE	
+442	ESSEX	
+443	YOU	
+444	prospectus	
+445	Register	
+446	STUDY	
+447	area	
+448	LIFE	
+449	RESEARCH	
+450	EXPLORE	
+451	How	
+452	pay	
+453	fees	
+454	Z	
+455	CONTACT	
+456	General	
+457	admit	
+458	pgadmit	
+459	0	
+460	873333	
+461	Privacy	
+462	Cookie	
+463	Policy	
+464	Disclaimer	
+465	CONNECT	
+466	WITH	
+467	reserved	
+468	engines	
+469	Ontologies	
+470	book	
+471	most	
+472	recent	
+473	natural	
+474	NLP	
+475	retrieval	
+476	intelligent	
+477	years	
+478	extraction	
+479	partially	
+480	structured	
+481	data	
+482	major	
+483	document	
+484	articles	
+485	BT	
+486	look	
+487	Current	
+488	Projects	
+489	ESRC	
+490	Poesio	
+491	builds	
+492	Minority	
+493	CDT	
+494	Game	
+495	email	
+496	aimed	
+497	Corpus	
+498	collaboration	
+499	some	
+500	exciting	
+501	Best	
+502	demo	
+503	it	
+504	February	
+505	Creating	
+506	annotated	
+507	SENSEI	
+508	Read	
+509	read	
+510	developed	
+511	methods	
+512	browsing	
+513	between	
+514	communities	
+515	chair	
+516	Meetup	
+517	organiser	
+518	Resources	
+519	SIRIP	
+520	Consortium	
+521	Text2Story	
+522	Outstanding	
+523	PC	
+524	SwissText	
+525	Games4NLP	
+526	ICTIR	
+527	Tutorials	
+528	DIR	
+529	18	
+530	NewsIR	
+531	ISWC	
+532	WWW	
+533	MultiLing	
+534	MMM	
+535	16	
+536	CLEF	
+537	Recommender	
+538	Challenge	
+539	NEWSREEL	
+540	Steering	
+541	14	
+542	EACL	
+543	Personalised	
+544	Multilingual	
+545	STAIRS	
+546	Hypertext	
+547	Missed	
+548	Organising	
+549	2007	
+550	external	
+551	supervisor	
+552	Publications	
+553	Book	
+554	Interests	
+555	17th	
+556	21st	
+557	September	
+558	earlier	
+559	events	
+560	16th	
+561	15th	
+562	14th	
+563	13th	
+564	12th	
+565	11th	
+566	10th	
+567	Check	
+568	programme	
+569	Reading	
+570	My	
+571	interests	
+572	processing	
+573	implementation	
+574	real	
+575	applications	
+576	directory	
+577	assistant	
+578	going	
+579	back	
+580	quite	
+581	few	
+582	where	
+583	issues	
+584	played	
+585	roles	
+586	usable	
+587	system	
+588	developing	
+589	allow	
+590	conceptual	
+591	collections	
+592	utilization	
+593	knowledge	
+594	tasks	
+595	type	
+596	documents	
+597	pages	
+598	newspaper	
+599	other	
+600	forms	
+601	vaguely	
+602	For	
+603	application	
+604	had	
+605	place	
+606	mobile	
+607	workforce	
+608	log	
+609	analysis	
+610	Ongoing	
+611	Collaboration	
+612	five	
+613	Large	
+614	Grant	
+615	Human	
+616	Era	
+617	Big	
+618	underway	
+619	Fox	
+620	plays	
+621	significant	
+622	links	
+623	Watch	
+624	space	
+625	Games	
+626	IGGI	
+627	55	
+628	scholarships	
+629	over	
+630	8	
+631	being	
+632	funded	
+633	supported	
+634	60	
+635	industrial	
+636	partners	
+637	To	
+638	explore	
+639	profiles	
+640	involves	
+641	York	
+642	Queen	
+643	Mary	
+644	Goldsmiths	
+645	College	
+646	want	
+647	know	
+648	drop	
+649	me	
+650	three	
+651	civilian	
+652	monitoring	
+653	violations	
+654	Iraq	
+655	Ceasefire	
+656	Portal	
+657	outcomes	
+658	Violence	
+659	Acts	
+660	Arabic	
+661	academic	
+662	resource	
+663	described	
+664	detail	
+665	paper	
+666	highly	
+667	successful	
+668	was	
+669	starting	
+670	point	
+671	ongoing	
+672	Lead	
+673	PI	
+674	pleased	
+675	Martinez	
+676	Alvarez	
+677	who	
+678	Associate	
+679	Here	
+680	timeline	
+681	named	
+682	Leader	
+683	Tomorrow	
+684	video	
+685	portrait	
+686	coverage	
+687	event	
+688	main	
+689	actors	
+690	April	
+691	award	
+692	even	
+693	just	
+694	announced	
+695	raised	
+696	1.8m	
+697	growth	
+698	capital	
+699	tier	
+700	investors	
+701	see	
+702	Techcrunch	
+703	wins	
+704	features	
+705	InnovateUK	
+706	home	
+707	page	
+708	again	
+709	Another	
+710	landmark	
+711	closes	
+712	16m	
+713	Series	
+714	B	
+715	December	
+716	confirmed	
+717	start	
+718	January	
+719	anaphorically	
+720	through	
+721	semantic	
+722	wikis	
+723	AnaWiki	
+724	Phrase	
+725	Detectives	
+726	annotation	
+727	game	
+728	creation	
+729	semantically	
+730	corpora	
+731	DALI	
+732	findings	
+733	lessons	
+734	learned	
+735	PhraseDetectives	
+736	FP7	
+737	started	
+738	finished	
+739	line	
+740	aim	
+741	make	
+742	sense	
+743	conversation	
+744	applying	
+745	advanced	
+746	anaphora	
+747	resolution	
+748	multi	
+749	summarization	
+750	predict	
+751	Brexit	
+752	results	
+753	if	
+754	prefer	
+755	Polish	
+756	Automatic	
+757	Adaptation	
+758	Structures	
+759	Assisted	
+760	Seeking	
+761	AutoAdapt	
+762	Robert	
+763	Gordon	
+764	Aberdeen	
+765	evaluated	
+766	adapting	
+767	automatically	
+768	constructed	
+769	domain	
+770	population	
+771	users	
+772	Application	
+773	large	
+774	scale	
+775	evaluation	
+776	two	
+777	seeking	
+778	scenarios	
+779	namely	
+780	interactive	
+781	focus	
+782	follows	
+783	Patient	
+784	Engagement	
+785	Blogs	
+786	result	
+787	automated	
+788	interface	
+789	clinical	
+790	commissioner	
+791	groups	
+792	CCGs	
+793	they	
+794	serve	
+795	framework	
+796	JobServe	
+797	world	
+798	first	
+799	Internet	
+800	Recruitment	
+801	Service	
+802	mail	
+803	server	
+804	Active	
+805	AWS	
+806	Ipswich	
+807	company	
+808	devoted	
+809	cutting	
+810	edge	
+811	enterprise	
+812	Learning	
+813	Disabilities	
+814	Infrastructure	
+815	Markup	
+816	Based	
+817	Enquiry	
+818	Involvements	
+819	Panel	
+820	Karen	
+821	Sp	
+822	rck	
+823	Jones	
+824	call	
+825	Winter	
+826	newsletter	
+827	Text	
+828	Analytics	
+829	Area	
+830	Evaluation	
+831	workshops	
+832	UISTDA	
+833	LDK	
+834	EMNLP	
+835	Professional	
+836	ProfS2018	
+837	HCOMP	
+838	Sponsorship	
+839	Keynote	
+840	tutorials	
+841	Reviewer	
+842	Mindtrek	
+843	Design	
+844	Worksop	
+845	Papers	
+846	Accessing	
+847	Cultural	
+848	Heritage	
+849	Scale	
+850	Advances	
+851	ACHS	
+852	Panellist	
+853	Symposium	
+854	Practice	
+855	Beyond	
+856	single	
+857	shot	
+858	text	
+859	queries	
+860	bridging	
+861	gap	
+862	MindTheGap	
+863	iConference	
+864	UMAP	
+865	Paper	
+866	BARS	
+867	ENRICH	
+868	IJCNLP	
+869	Presentations	
+870	Over	
+871	Query	
+872	Sessions	
+873	SIR2012	
+874	Joint	
+875	Machine	
+876	Cross	
+877	Disconnected	
+878	Languages	
+879	Styles	
+880	Content	
+881	Analysis	
+882	Invited	
+883	Panelist	
+884	Session	
+885	PMHR	
+886	article	
+887	ITNow	
+888	conference	
+889	report	
+890	Forum	
+891	ECAI	
+892	MinUCS	
+893	NODALIDA	
+894	Special	
+895	Issue	
+896	Journal	
+897	Of	
+898	Interactive	
+899	QA	
+900	Guest	
+901	Editorial	
+902	Profiling	
+903	located	
+904	Interaction	
+905	Context	
+906	ECML	
+907	PKDD	
+908	High	
+909	level	
+910	Flatlands	
+911	organised	
+912	Demonstration	
+913	Teaching	
+914	CE306	
+915	CE706	
+916	Deirdre	
+917	Lungley	
+918	Mahmoud	
+919	El	
+920	Haj	
+921	M	
+922	Dyaa	
+923	Albakour	
+924	Suma	
+925	Adindla	
+926	Sharhida	
+927	Saad	
+928	Azhar	
+929	Alhindi	
+930	Jon	
+931	Chamberlain	
+932	Roseline	
+933	Antai	
+934	Fawaz	
+935	Alarfaj	
+936	Maha	
+937	Althobaiti	
+938	Silviu	
+939	Paun	
+940	Ans	
+941	Alghamdi	
+942	Passed	
+943	corrections	
+944	David	
+945	Gundry	
+946	Rob	
+947	Homewood	
+948	Chris	
+949	Madge	
+950	Dino	
+951	Ratcliffe	
+952	Steve	
+953	Zimmerman	
+954	Selected	
+955	Foundation	
+956	Trends	
+957	Searching	
+958	Enterprise	
+959	Martin	
+960	White	
+961	IntranetFocus	
+962	Informer	
+963	Newsletter	
+964	BCS	
+965	Computing	
+966	Reviews	
+967	tel	
+968	872669	
+969	fax	
+970	872788	
+971	udo	
+972	1997	
+973	last	
+974	change	
+After Indexing Keywords for,http://csee.essex.ac.uk/staff/udo/index.htmlWe have:
+
+Index	KeyWord
+1	Committee	
+2	Programme	
+3	Co	
+4	ECIR	
+5	2015	
+6	2014	
+7	2016	
+8	2013	
+9	Workshop	
+10	Organiser	
+11	SIGIR	
+12	Retrieval	
+13	2012	
+14	Conference	
+15	Chair	
+16	Web	
+17	Dr	
+18	LAC	
+19	2011	
+20	Solutions	
+21	2010	
+22	papers	
+23	Track	
+24	Udo	
+25	IR	
+26	Industry	
+27	ACM	
+28	KTP	
+29	workshop	
+30	FDIA	
+31	Kruschwitz	
+32	Language	
+33	Group	
+34	Intelligence	
+35	LREC	
+36	Signal	
+37	ACL	
+38	2009	
+39	2008	
+40	YPA	
+41	Intelligent	
+42	full	
+43	Senior	
+44	CIKM	
+45	RANLP	
+46	co	
+47	IEEE	
+48	WIC	
+49	IRF	
+50	Access	
+51	Extraction	
+52	London	
+53	involving	
+54	November	
+55	Project	
+56	Experience	
+57	demos	
+58	CHIIR	
+59	AAAI	
+60	AIRS	
+61	Gamification	
+62	ESWC	
+63	Hybrid	
+64	Translation	
+65	IIiX	
+66	Future	
+67	Directions	
+68	Document	
+69	Springer	
+70	Natural	
+71	I	
+72	am	
+73	Computation	
+74	language	
+75	techniques	
+76	example	
+77	now	
+78	Rights	
+79	Data	
+80	Doctoral	
+81	EPSRC	
+82	Partnership	
+83	human	
+84	Miguel	
+85	Award	
+86	Recent	
+87	PEBL	
+88	IRSG	
+89	NAACL	
+90	HLT	
+91	19	
+92	User	
+93	Modeling	
+94	Personalization	
+95	WSDM	
+96	Demos	
+97	Scientific	
+98	GamifIR	
+99	JCDL	
+100	KONVENS	
+101	Reviewing	
+102	Program	
+103	Approaches	
+104	HyTra	
+105	Demo	
+106	Review	
+107	engines	
+108	Ontologies	
+109	book	
+110	most	
+111	recent	
+112	natural	
+113	NLP	
+114	retrieval	
+115	intelligent	
+116	years	
+117	extraction	
+118	partially	
+119	structured	
+120	data	
+121	major	
+122	document	
+123	articles	
+124	BT	
+125	look	
+126	Current	
+127	Projects	
+128	ESRC	
+129	Poesio	
+130	builds	
+131	Minority	
+132	CDT	
+133	Game	
+134	email	
+135	aimed	
+136	Corpus	
+137	collaboration	
+138	some	
+139	exciting	
+140	Best	
+141	demo	
+142	it	
+143	February	
+144	Creating	
+145	annotated	
+146	SENSEI	
+147	Read	
+148	read	
+149	developed	
+150	methods	
+151	browsing	
+152	between	
+153	communities	
+154	chair	
+155	Meetup	
+156	organiser	
+157	Resources	
+158	SIRIP	
+159	Consortium	
+160	Text2Story	
+161	Outstanding	
+162	PC	
+163	SwissText	
+164	Games4NLP	
+165	ICTIR	
+166	Tutorials	
+167	DIR	
+168	18	
+169	NewsIR	
+170	ISWC	
+171	WWW	
+172	MultiLing	
+173	MMM	
+174	16	
+175	CLEF	
+176	Recommender	
+177	Challenge	
+178	NEWSREEL	
+179	Steering	
+180	14	
+181	EACL	
+182	Personalised	
+183	Multilingual	
+184	STAIRS	
+185	Hypertext	
+186	Missed	
+187	Organising	
+188	2007	
+189	external	
+190	supervisor	
+191	Publications	
+192	Book	
+193	Interests	
+194	17th	
+195	21st	
+196	September	
+197	earlier	
+198	events	
+199	16th	
+200	15th	
+201	14th	
+202	13th	
+203	12th	
+204	11th	
+205	10th	
+206	Check	
+207	programme	
+208	Reading	
+209	My	
+210	interests	
+211	processing	
+212	implementation	
+213	real	
+214	applications	
+215	directory	
+216	assistant	
+217	going	
+218	back	
+219	quite	
+220	few	
+221	where	
+222	issues	
+223	played	
+224	roles	
+225	usable	
+226	system	
+227	developing	
+228	allow	
+229	conceptual	
+230	collections	
+231	utilization	
+232	knowledge	
+233	tasks	
+234	type	
+235	documents	
+236	pages	
+237	newspaper	
+238	other	
+239	forms	
+240	vaguely	
+241	For	
+242	application	
+243	had	
+244	place	
+245	mobile	
+246	workforce	
+247	log	
+248	analysis	
+249	Ongoing	
+250	Collaboration	
+251	five	
+252	Large	
+253	Grant	
+254	Human	
+255	Era	
+256	Big	
+257	underway	
+258	Fox	
+259	plays	
+260	significant	
+261	links	
+262	Watch	
+263	space	
+264	Games	
+265	IGGI	
+266	55	
+267	scholarships	
+268	over	
+269	8	
+270	being	
+271	funded	
+272	supported	
+273	60	
+274	industrial	
+275	partners	
+276	To	
+277	explore	
+278	profiles	
+279	involves	
+280	York	
+281	Queen	
+282	Mary	
+283	Goldsmiths	
+284	College	
+285	want	
+286	know	
+287	drop	
+288	me	
+289	three	
+290	civilian	
+291	monitoring	
+292	violations	
+293	Iraq	
+294	Ceasefire	
+295	Portal	
+296	outcomes	
+297	Violence	
+298	Acts	
+299	Arabic	
+300	academic	
+301	resource	
+302	described	
+303	detail	
+304	paper	
+305	highly	
+306	successful	
+307	was	
+308	starting	
+309	point	
+310	ongoing	
+311	Lead	
+312	PI	
+313	pleased	
+314	Martinez	
+315	Alvarez	
+316	who	
+317	Associate	
+318	Here	
+319	timeline	
+320	named	
+321	Leader	
+322	Tomorrow	
+323	video	
+324	portrait	
+325	coverage	
+326	event	
+327	main	
+328	actors	
+329	April	
+330	award	
+331	even	
+332	just	
+333	announced	
+334	raised	
+335	1.8m	
+336	growth	
+337	capital	
+338	tier	
+339	investors	
+340	see	
+341	Techcrunch	
+342	wins	
+343	features	
+344	InnovateUK	
+345	home	
+346	page	
+347	again	
+348	Another	
+349	landmark	
+350	closes	
+351	16m	
+352	Series	
+353	B	
+354	December	
+355	confirmed	
+356	start	
+357	January	
+358	anaphorically	
+359	through	
+360	semantic	
+361	wikis	
+362	AnaWiki	
+363	Phrase	
+364	Detectives	
+365	annotation	
+366	game	
+367	creation	
+368	semantically	
+369	corpora	
+370	DALI	
+371	findings	
+372	lessons	
+373	learned	
+374	PhraseDetectives	
+375	FP7	
+376	started	
+377	finished	
+378	line	
+379	aim	
+380	make	
+381	sense	
+382	conversation	
+383	applying	
+384	advanced	
+385	anaphora	
+386	resolution	
+387	multi	
+388	summarization	
+389	predict	
+390	Brexit	
+391	results	
+392	if	
+393	prefer	
+394	Polish	
+395	Automatic	
+396	Adaptation	
+397	Structures	
+398	Assisted	
+399	Seeking	
+400	AutoAdapt	
+401	Robert	
+402	Gordon	
+403	Aberdeen	
+404	evaluated	
+405	adapting	
+406	automatically	
+407	constructed	
+408	domain	
+409	population	
+410	users	
+411	Application	
+412	large	
+413	scale	
+414	evaluation	
+415	two	
+416	seeking	
+417	scenarios	
+418	namely	
+419	interactive	
+420	focus	
+421	follows	
+422	Patient	
+423	Engagement	
+424	Blogs	
+425	result	
+426	automated	
+427	interface	
+428	clinical	
+429	commissioner	
+430	groups	
+431	CCGs	
+432	they	
+433	serve	
+434	framework	
+435	JobServe	
+436	world	
+437	first	
+438	Internet	
+439	Recruitment	
+440	Service	
+441	mail	
+442	server	
+443	Active	
+444	AWS	
+445	Ipswich	
+446	company	
+447	devoted	
+448	cutting	
+449	edge	
+450	enterprise	
+451	Learning	
+452	Disabilities	
+453	Infrastructure	
+454	Markup	
+455	Based	
+456	Enquiry	
+457	Involvements	
+458	Panel	
+459	Karen	
+460	Sp	
+461	rck	
+462	Jones	
+463	call	
+464	Winter	
+465	newsletter	
+466	Text	
+467	Analytics	
+468	Area	
+469	Evaluation	
+470	workshops	
+471	UISTDA	
+472	LDK	
+473	EMNLP	
+474	Professional	
+475	ProfS2018	
+476	HCOMP	
+477	Sponsorship	
+478	Keynote	
+479	tutorials	
+480	Reviewer	
+481	Mindtrek	
+482	Design	
+483	Worksop	
+484	Papers	
+485	Accessing	
+486	Cultural	
+487	Heritage	
+488	Scale	
+489	Advances	
+490	ACHS	
+491	Panellist	
+492	Symposium	
+493	Practice	
+494	Beyond	
+495	single	
+496	shot	
+497	text	
+498	queries	
+499	bridging	
+500	gap	
+501	MindTheGap	
+502	iConference	
+503	UMAP	
+504	Paper	
+505	BARS	
+506	ENRICH	
+507	IJCNLP	
+508	Presentations	
+509	Over	
+510	Query	
+511	Sessions	
+512	SIR2012	
+513	Joint	
+514	Machine	
+515	Cross	
+516	Disconnected	
+517	Languages	
+518	Styles	
+519	Content	
+520	Analysis	
+521	Invited	
+522	Panelist	
+523	Session	
+524	PMHR	
+525	article	
+526	ITNow	
+527	conference	
+528	report	
+529	Forum	
+530	ECAI	
+531	MinUCS	
+532	NODALIDA	
+533	Special	
+534	Issue	
+535	Journal	
+536	Of	
+537	Interactive	
+538	QA	
+539	Guest	
+540	Editorial	
+541	Profiling	
+542	located	
+543	Interaction	
+544	Context	
+545	ECML	
+546	PKDD	
+547	High	
+548	level	
+549	Flatlands	
+550	organised	
+551	Demonstration	
+552	Teaching	
+553	CE306	
+554	CE706	
+555	Deirdre	
+556	Lungley	
+557	Mahmoud	
+558	El	
+559	Haj	
+560	M	
+561	Dyaa	
+562	Albakour	
+563	Suma	
+564	Adindla	
+565	Sharhida	
+566	Saad	
+567	Azhar	
+568	Alhindi	
+569	Jon	
+570	Chamberlain	
+571	Roseline	
+572	Antai	
+573	Fawaz	
+574	Alarfaj	
+575	Maha	
+576	Althobaiti	
+577	Silviu	
+578	Paun	
+579	Ans	
+580	Alghamdi	
+581	Passed	
+582	corrections	
+583	David	
+584	Gundry	
+585	Rob	
+586	Homewood	
+587	Chris	
+588	Madge	
+589	Dino	
+590	Ratcliffe	
+591	Steve	
+592	Zimmerman	
+593	Selected	
+594	Foundation	
+595	Trends	
+596	Searching	
+597	Enterprise	
+598	Martin	
+599	White	
+600	IntranetFocus	
+601	Informer	
+602	Newsletter	
+603	BCS	
+604	Computing	
+605	Reviews	
+606	tel	
+607	872669	
+608	fax	
+609	872788	
+610	udo	
+611	1997	
+612	last	
+613	change	
+After Indexing Phrases for,https://www.essex.ac.uk/departments/computer-science-and-electronic-engineeringWe have:
+
+Index	Phrases
+1	Programme Committee	
+2	2018 Programme	
+3	Co Organiser	
+4	Co Chair	
+5	2017 Programme	
+6	Workshop on	
+7	Information Retrieval	
+8	2019 Programme	
+9	Committee Search	
+10	Search Solutions	
+11	2015 Programme	
+12	2013 Programme	
+13	to find	
+14	and research	
+15	. Our	
+16	LAC Day	
+17	Committee ECIR	
+18	2016 Programme	
+19	at ECIR	
+20	short papers	
+21	workshop at	
+22	computer science	
+23	Undergraduate study	
+24	Masters study	
+25	research degrees	
+26	and CPD	
+27	International students	
+28	Colchester Campus	
+29	Find a	
+30	a course	
+31	Unable to	
+32	find any	
+33	any suggestions	
+34	suggestions for	
+35	for your	
+36	your query	
+37	query ...	
+38	and facilities	
+39	Organiser SIGIR	
+40	2014 Programme	
+41	2012 Programme	
+42	2011 Programme	
+43	2010 Programme	
+44	KTP project	
+45	Industry Day	
+46	Committee full	
+47	Senior Programme	
+48	Committee SIGIR	
+49	Committee IEEE	
+50	IEEE WIC	
+51	WIC ACM	
+52	ACM International	
+53	International Conference	
+54	Conference on	
+55	on Web	
+56	Web Intelligence	
+57	IRF Conference	
+58	Information Access	
+59	in Information	
+60	2009 Programme	
+61	a variety	
+62	variety of	
+63	electronic engineering	
+64	engineering computer	
+65	study Masters	
+66	study Postgraduate	
+67	Postgraduate research	
+68	degrees Short	
+69	Short courses	
+70	courses and	
+71	CPD International	
+72	students Study	
+73	Study abroad	
+74	Study online	
+75	Essex living	
+76	living Essex	
+77	Essex Sport	
+78	Sport Colchester	
+79	Campus Southend	
+80	Southend Campus	
+81	Campus Loughton	
+82	Loughton Campus	
+83	Campus Student	
+84	Student facilities	
+85	facilities Student	
+86	Student services	
+87	Research excellence	
+88	excellence Research	
+89	Research showcase	
+90	showcase Media	
+91	Media requests	
+92	requests Research	
+93	Research Excellence	
+94	Excellence Framework	
+95	Framework REF	
+96	REF Research	
+97	Research institutes	
+98	institutes and	
+99	and centres	
+100	Expertise for	
+101	for business	
+102	students and	
+103	About us	
+104	Contact us	
+105	Students Alumni	
+106	Alumni Staff	
+107	courses by	
+108	by subject	
+109	cookie policy	
+110	. View	
+111	and funding	
+112	as well	
+113	well as	
+114	and a	
+115	facilities .	
+116	. We	
+117	We have	
+118	our School	
+119	of specialist	
+120	our courses	
+121	labs and	
+122	for the	
+123	to help	
+124	Feb 2019	
+125	you would	
+126	would like	
+127	a question	
+128	Udo Kruschwitz	
+129	The Udo	
+130	and the	
+131	involving the	
+132	papers demos	
+133	Committee ACL	
+134	Committee RANLP	
+135	Committee IRF	
+136	Committee Future	
+137	Future Directions	
+138	Directions in	
+139	Access FDIA	
+140	Knowledge Extraction	
+141	Research Information	
+142	Intelligent Document	
+143	Document Retrieval	
+144	Natural Language	
+145	Language Engineering	
+146	I am	
+147	Language and	
+148	and Computation	
+149	Computation Group	
+150	is a	
+151	ECIR 2015	
+152	project involving	
+153	the School	
+154	ECIR 2019	
+155	Industry Track	
+156	Committee CHIIR	
+157	Committee User	
+158	User Modeling	
+159	Modeling Personalization	
+160	Personalization Experience	
+161	Experience Track	
+162	Programme Co	
+163	Committee CIKM	
+164	ECIR 2018	
+165	Committee LREC	
+166	Scientific Committee	
+167	full short	
+168	2016 Co	
+169	Gamification for	
+170	for Information	
+171	Retrieval GamifIR	
+172	Reviewing Board	
+173	Committee ESWC	
+174	Committee IR	
+175	Student Program	
+176	Program Programme	
+177	on Hybrid	
+178	Hybrid Approaches	
+179	Approaches to	
+180	to Translation	
+181	Translation HyTra	
+182	HyTra Programme	
+183	2014 Co	
+184	Demo Co	
+185	SIGIR 2013	
+186	Workshop Programme	
+187	ECIR 2012	
+188	2008 Programme	
+189	Review by	
+190	We offer	
+191	offer a	
+192	of degrees	
+193	degrees in	
+194	in computer	
+195	science and	
+196	and electronic	
+197	engineering from	
+198	from computer	
+199	computer games	
+200	games and	
+201	and robotics	
+202	robotics to	
+203	to communications	
+204	communications engineering	
+205	science electronic	
+206	science uk	
+207	uk electrical	
+208	electrical engineering	
+209	engineering courses	
+210	courses School	
+211	Engineering University	
+212	Essex We	
+213	We Are	
+214	Are Essex	
+215	Essex Study	
+216	Study Subject	
+217	Subject areas	
+218	areas Undergraduate	
+219	abroad Study	
+220	online Life	
+221	Life Essex	
+222	services New	
+223	New students	
+224	students Welcome	
+225	Welcome to	
+226	to Essex	
+227	Essex Before	
+228	Before you	
+229	you arrive	
+230	arrive Information	
+231	Information for	
+232	for families	
+233	families International	
+234	students Research	
+235	Research Research	
+236	centres Business	
+237	Business Expertise	
+238	business Knowledge	
+239	Knowledge Gateway	
+240	Gateway Facilities	
+241	Facilities Recruit	
+242	Recruit our	
+243	and graduates	
+244	graduates Training	
+245	Training Apprenticeships	
+246	Apprenticeships and	
+247	CPD Find	
+248	course About	
+249	us Open	
+250	Open Days	
+251	Days and	
+252	and Campus	
+253	Campus Tours	
+254	Tours Departments	
+255	Departments News	
+256	News Events	
+257	Events Sustainability	
+258	Sustainability Global	
+259	Global Essex	
+260	Essex Contact	
+261	us Jobs	
+262	Jobs Students	
+263	Staff Public	
+264	Public Information	
+265	Information Directory	
+266	Directory Find	
+267	course Site	
+268	Site search	
+269	search People	
+270	People search	
+271	search Select	
+272	Select Level	
+273	Level Undergraduate	
+274	Undergraduate Postgraduate	
+275	Postgraduate Unable	
+276	... Browse	
+277	Browse courses	
+278	subject Search	
+279	Search research	
+280	degrees Unable	
+281	... Unable	
+282	... This	
+283	This site	
+284	site uses	
+285	uses cookies	
+286	cookies .	
+287	. By	
+288	By continuing	
+289	continuing to	
+290	to browse	
+291	browse the	
+292	the site	
+293	site you	
+294	you are	
+295	are consenting	
+296	consenting to	
+297	to their	
+298	their use	
+299	use .	
+300	. Please	
+301	Please visit	
+302	visit our	
+303	our cookie	
+304	policy to	
+305	out which	
+306	which cookies	
+307	cookies we	
+308	we use	
+309	use and	
+310	and why	
+311	why .	
+312	View cookie	
+313	policy .	
+314	. Departments	
+315	Departments Computer	
+316	Engineering School	
+317	School Computer	
+318	Engineering Departments	
+319	Departments School	
+320	Engineering Undergraduate	
+321	Undergraduate Masters	
+322	Masters Research	
+323	Research Degrees	
+324	Degrees Careers	
+325	Careers Accreditation	
+326	Accreditation Research	
+327	Research Scholarships	
+328	Scholarships and	
+329	funding Facilities	
+330	Facilities Equality	
+331	Equality and	
+332	and inclusion	
+333	inclusion Working	
+334	Working with	
+335	with Business	
+336	Business People	
+337	People Events	
+338	Events News	
+339	News Creative	
+340	Creative committed	
+341	committed experimental	
+342	experimental From	
+343	From making	
+344	making businesses	
+345	businesses run	
+346	run smoothly	
+347	smoothly to	
+348	to gaming	
+349	gaming and	
+350	and simulating	
+351	simulating behaviour	
+352	behaviour many	
+353	many everyday	
+354	everyday processes	
+355	processes have	
+356	a basis	
+357	basis in	
+358	in computing	
+359	computing while	
+360	while advances	
+361	advances in	
+362	in electronics	
+363	electronics have	
+364	have made	
+365	made the	
+366	the internet	
+367	internet innovative	
+368	innovative telecommunications	
+369	telecommunications and	
+370	and inexpensive	
+371	inexpensive computing	
+372	computing possible	
+373	possible .	
+374	. At	
+375	At Essex	
+376	Essex we	
+377	we teach	
+378	teach and	
+379	research at	
+380	at undergraduate	
+381	undergraduate masters	
+382	masters and	
+383	and postgraduate	
+384	postgraduate research	
+385	research levels	
+386	levels in	
+387	in all	
+388	all these	
+389	these areas	
+390	areas and	
+391	more .	
+392	Our research	
+393	research is	
+394	is changing	
+395	changing people	
+396	people s	
+397	s lives	
+398	lives and	
+399	and underpins	
+400	underpins tomorrow	
+401	tomorrow s	
+402	s must	
+403	must have	
+404	have technologies	
+405	technologies .	
+406	. Research	
+407	Research and	
+408	and development	
+409	development has	
+410	has to	
+411	to stay	
+412	stay one	
+413	one step	
+414	step ahead	
+415	ahead of	
+416	the industry	
+417	industry so	
+418	so our	
+419	our curriculum	
+420	curriculum is	
+421	is constantly	
+422	constantly evolving	
+423	evolving .	
+424	Our work	
+425	work is	
+426	is driven	
+427	driven by	
+428	by creativity	
+429	creativity and	
+430	and imagination	
+431	imagination as	
+432	as technical	
+433	technical excellence	
+434	excellence we	
+435	we re	
+436	re not	
+437	not your	
+438	your typical	
+439	typical geeks	
+440	geeks You	
+441	You ll	
+442	ll have	
+443	a unique	
+444	unique experience	
+445	experience here	
+446	here as	
+447	as inspiring	
+448	inspiring purpose	
+449	purpose built	
+450	built facilities	
+451	facilities consistently	
+452	consistently top	
+453	top ranking	
+454	ranking levels	
+455	levels of	
+456	of student	
+457	student satisfaction	
+458	satisfaction and	
+459	a curriculum	
+460	curriculum that	
+461	that is	
+462	is led	
+463	led by	
+464	the needs	
+465	needs of	
+466	of industry	
+467	industry .	
+468	Our courses	
+469	courses are	
+470	are guided	
+471	guided by	
+472	by an	
+473	an Industrial	
+474	Industrial Advisory	
+475	Advisory Board	
+476	Board of	
+477	of experts	
+478	experts which	
+479	which includes	
+480	includes representatives	
+481	representatives from	
+482	from companies	
+483	companies such	
+484	as Intel	
+485	Intel .	
+486	. Regardless	
+487	Regardless of	
+488	the study	
+489	study path	
+490	path you	
+491	you choose	
+492	choose you	
+493	you ll	
+494	ll develop	
+495	develop the	
+496	the skills	
+497	skills and	
+498	and principles	
+499	principles for	
+500	for a	
+501	a rewarding	
+502	rewarding career	
+503	career .	
+504	As a	
+505	our student	
+506	student and	
+507	research community	
+508	community you	
+509	you will	
+510	will benefit	
+511	benefit from	
+512	our exceptional	
+513	exceptional laboratories	
+514	laboratories and	
+515	have several	
+516	several computer	
+517	computer labs	
+518	labs that	
+519	that are	
+520	are exclusively	
+521	exclusively for	
+522	for our	
+523	School s	
+524	s students	
+525	students .	
+526	We also	
+527	also have	
+528	specialist facilities	
+529	facilities in	
+530	the areas	
+531	areas of	
+532	of brain	
+533	brain computer	
+534	computer interfaces	
+535	interfaces robotics	
+536	robotics embedded	
+537	embedded systems	
+538	systems lasers	
+539	lasers photonics	
+540	photonics and	
+541	and networking	
+542	networking and	
+543	a laboratory	
+544	laboratory based	
+545	based teaching	
+546	teaching and	
+547	research Centre	
+548	for Computational	
+549	Computational Finance	
+550	Finance and	
+551	and Economic	
+552	Economic Agents	
+553	Agents .	
+554	View our	
+555	courses Why	
+556	Why choose	
+557	choose us	
+558	us University	
+559	the Year	
+560	Year Times	
+561	Times Higher	
+562	Higher Education	
+563	Education Awards	
+564	Awards 2018	
+565	2018 Top	
+566	Top 15	
+567	15 for	
+568	for Electronic	
+569	Engineering TGUG	
+570	TGUG 2019	
+571	2019 Study	
+572	abroad and	
+573	and industry	
+574	industry placement	
+575	placement year	
+576	year opportunities	
+577	opportunities 88	
+578	88 of	
+579	students are	
+580	in professional	
+581	professional employment	
+582	employment or	
+583	or postgraduate	
+584	postgraduate study	
+585	study within	
+586	within six	
+587	six months	
+588	months of	
+589	of graduating	
+590	graduating from	
+591	from Essex	
+592	Essex DLHE	
+593	DLHE 2017	
+594	2017 Specialist	
+595	Specialist labs	
+596	facilities Undergraduate	
+597	study Unexpectedly	
+598	Unexpectedly creative	
+599	creative Flexible	
+600	Flexible accredited	
+601	accredited courses	
+602	courses allowing	
+603	allowing you	
+604	you to	
+605	to choose	
+606	choose your	
+607	your own	
+608	own path	
+609	path of	
+610	of specialisation	
+611	specialisation .	
+612	. Masters	
+613	study Driven	
+614	Driven by	
+615	by imagination	
+616	imagination Explore	
+617	Explore our	
+618	our specialist	
+619	specialist taught	
+620	taught Masters	
+621	Masters courses	
+622	courses combining	
+623	combining formal	
+624	formal instruction	
+625	instruction with	
+626	with a	
+627	a supervised	
+628	supervised research	
+629	research project	
+630	. PhD	
+631	PhD study	
+632	study A	
+633	A creative	
+634	creative powerhouse	
+635	powerhouse We	
+636	We provide	
+637	provide an	
+638	an active	
+639	active and	
+640	and stimulating	
+641	stimulating environment	
+642	environment to	
+643	to carry	
+644	carry out	
+645	out your	
+646	your doctoral	
+647	doctoral research	
+648	research and	
+649	and have	
+650	have an	
+651	an extensive	
+652	extensive range	
+653	range of	
+654	specialist labs	
+655	The CSEE	
+656	CSEE community	
+657	community both	
+658	both students	
+659	and staff	
+660	staff are	
+661	are committed	
+662	committed to	
+663	to making	
+664	making wonderful	
+665	wonderful things	
+666	things for	
+667	the benefit	
+668	benefit of	
+669	of society	
+670	society .	
+671	Our education	
+672	education and	
+673	research strengths	
+674	strengths are	
+675	are based	
+676	based on	
+677	on people	
+678	people working	
+679	working together	
+680	together in	
+681	in a	
+682	a safe	
+683	safe environment	
+684	environment designed	
+685	designed to	
+686	to provide	
+687	provide inquisitive	
+688	inquisitive minds	
+689	minds with	
+690	the opportunities	
+691	opportunities to	
+692	to use	
+693	use their	
+694	their imagination	
+695	imagination to	
+696	to be	
+697	be creative	
+698	creative .	
+699	. Come	
+700	Come along	
+701	along for	
+702	the ride	
+703	ride of	
+704	of your	
+705	your life	
+706	life Professor	
+707	Professor Anthony	
+708	Anthony Vickers	
+709	Vickers Head	
+710	of school	
+711	school Expertise	
+712	business Use	
+713	Use our	
+714	our research	
+715	research to	
+716	help you	
+717	you innovate	
+718	innovate from	
+719	from placements	
+720	placements and	
+721	and internships	
+722	internships to	
+723	to Knowledge	
+724	Transfer Partnerships	
+725	Partnerships .	
+726	. WISE	
+727	WISE membership	
+728	membership We	
+729	have joined	
+730	joined the	
+731	the WISE	
+732	WISE campaign	
+733	campaign to	
+734	help us	
+735	us progress	
+736	progress our	
+737	our gender	
+738	gender equality	
+739	equality work	
+740	work .	
+741	. Membership	
+742	Membership means	
+743	means we	
+744	we can	
+745	can raise	
+746	raise the	
+747	the profile	
+748	profile of	
+749	our female	
+750	female STEM	
+751	STEM staff	
+752	staff as	
+753	as WISE	
+754	WISE role	
+755	role models	
+756	models and	
+757	and link	
+758	link them	
+759	them to	
+760	to our	
+761	our community	
+762	community .	
+763	. Career	
+764	Career Development	
+765	Development In	
+766	In response	
+767	response to	
+768	University Athena	
+769	Athena SWAN	
+770	SWAN initiative	
+771	initiative a	
+772	a selection	
+773	selection of	
+774	of resources	
+775	resources were	
+776	were created	
+777	created offering	
+778	offering support	
+779	support networks	
+780	networks training	
+781	training and	
+782	funding opportunities	
+783	opportunities specifically	
+784	specifically for	
+785	for women	
+786	women .	
+787	. Latest	
+788	Latest news	
+789	news Computer	
+790	Science student	
+791	student hopes	
+792	hopes to	
+793	to shape	
+794	shape the	
+795	the future	
+796	future of	
+797	of wireless	
+798	wireless technology	
+799	technology robotics	
+800	robotics and	
+801	and AI	
+802	AI thanks	
+803	thanks to	
+804	to mobility	
+805	mobility awards	
+806	awards 20	
+807	20 Feb	
+808	2019 First	
+809	First prosthetic	
+810	prosthetic hand	
+811	hand with	
+812	with tactile	
+813	tactile sensations	
+814	sensations and	
+815	and dexterity	
+816	dexterity successfully	
+817	successfully implanted	
+818	implanted 05	
+819	05 Feb	
+820	2019 Economic	
+821	Economic and	
+822	and Social	
+823	Social Research	
+824	Research Council	
+825	Council awards	
+826	awards Essex	
+827	Essex new	
+828	new round	
+829	round of	
+830	of funding	
+831	funding to	
+832	to boost	
+833	boost research	
+834	research impact	
+835	impact 31	
+836	31 Jan	
+837	Jan 2019	
+838	2019 Get	
+839	Get in	
+840	in touch	
+841	touch with	
+842	with us	
+843	us If	
+844	like any	
+845	any more	
+846	more information	
+847	information about	
+848	about Computer	
+849	Engineering or	
+850	or have	
+851	question you	
+852	like to	
+853	to ask	
+854	ask please	
+855	please complete	
+856	complete this	
+857	this short	
+858	short enquiry	
+859	enquiry form	
+860	form .	
+861	. Ask	
+862	Ask us	
+863	us a	
+864	question Click4Assistance	
+865	Click4Assistance UK	
+866	UK Live	
+867	Live Chat	
+868	Chat Software	
+869	Software Contact	
+870	Contact our	
+871	Engineering Colchester	
+872	Campus Wivenhoe	
+873	Colchester Essex	
+874	Essex CO4	
+875	3SQ All	
+876	All enquiries	
+877	enquiries Telephone	
+878	Telephone 01206	
+879	01206 872770	
+880	872770 WE	
+881	WE ARE	
+882	ARE ESSEX	
+883	ESSEX ARE	
+884	ARE YOU	
+885	YOU Get	
+886	Get a	
+887	a prospectus	
+888	prospectus Register	
+889	Register for	
+890	an Open	
+891	Open Day	
+892	Day STUDY	
+893	STUDY Browse	
+894	Browse our	
+895	subject area	
+896	area Undergraduate	
+897	online Find	
+898	course LIFE	
+899	LIFE Essex	
+900	services RESEARCH	
+901	RESEARCH Research	
+902	centres EXPLORE	
+903	EXPLORE About	
+904	us Departments	
+905	Departments Contact	
+906	us How	
+907	How to	
+908	to pay	
+909	pay your	
+910	your fees	
+911	fees Jobs	
+912	Jobs A	
+913	A Z	
+914	Z Students	
+915	Staff Business	
+916	Business CONTACT	
+917	CONTACT US	
+918	US Contact	
+919	Contact General	
+920	General enquiries	
+921	enquiries essex.ac.uk	
+922	essex.ac.uk Undergraduate	
+923	Undergraduate admit	
+924	admit essex.ac.uk	
+925	essex.ac.uk Postgraduate	
+926	Postgraduate pgadmit	
+927	pgadmit essex.ac.uk	
+928	essex.ac.uk 44	
+929	44 0	
+930	0 1206	
+931	1206 873333	
+932	873333 University	
+933	Essex Wivenhoe	
+934	3SQ Privacy	
+935	Privacy and	
+936	and Cookie	
+937	Cookie Policy	
+938	Policy Disclaimer	
+939	Disclaimer CONNECT	
+940	CONNECT WITH	
+941	WITH US	
+942	US 2019	
+943	2019 University	
+944	Essex .	
+945	. All	
+946	All rights	
+947	rights reserved	
+948	Kruschwitz Web	
+949	Web search	
+950	search technology	
+951	technology search	
+952	search engines	
+953	engines YPA	
+954	YPA Information	
+955	Retrieval IR	
+956	IR Knowledge	
+957	Extraction Ontologies	
+958	Ontologies Research	
+959	Information Intelligent	
+960	Retrieval Springer	
+961	Springer book	
+962	book Natural	
+963	Engineering The	
+964	Udo Udo	
+965	most recent	
+966	Group .	
+967	natural language	
+968	of such	
+969	project is	
+970	is an	
+971	an example	
+972	the extraction	
+973	extraction of	
+974	information from	
+975	partially structured	
+976	structured data	
+977	a look	
+978	look at	
+979	is now	
+980	Poesio Kruschwitz	
+981	this project	
+982	builds on	
+983	the Minority	
+984	Minority Rights	
+985	Rights Group	
+986	of London	
+987	Transfer Partnership	
+988	Partnership KTP	
+989	aimed at	
+990	of human	
+991	the project	
+992	in our	
+993	LREC 2016	
+994	here is	
+995	This project	
+996	in November	
+997	about the	
+998	a project	
+999	. PEBL	
+1000	PEBL AI	
+1001	. Development	
+1002	Development of	
+1003	a KTP	
+1004	Engineering and	
+1005	Meetup in	
+1006	in London	
+1007	London Co	
+1008	Co organiser	
+1009	full papers	
+1010	papers short	
+1011	Committee and	
+1012	and Doctoral	
+1013	Doctoral Consortium	
+1014	Committee NAACL	
+1015	NAACL HLT	
+1016	Committee Text2Story	
+1017	Committee The	
+1018	The Web	
+1019	Web Conference	
+1020	Track WSDM	
+1021	Committee SwissText	
+1022	SIGIR 2018	
+1023	at SIGIR	
+1024	Committee Games4NLP	
+1025	LREC 2018	
+1026	Committee ICTIR	
+1027	18 workshop	
+1028	Committee ISWC	
+1029	2017 Co	
+1030	Committee short	
+1031	IR Track	
+1032	SIGIR 2016	
+1033	Committee Workshop	
+1034	at JCDL	
+1035	JCDL 2016	
+1036	ECIR 2016	
+1037	2015 Co	
+1038	Committee Gamification	
+1039	Organiser ECIR	
+1040	Committee CLEF	
+1041	News Recommender	
+1042	Recommender Challenge	
+1043	Challenge NEWSREEL	
+1044	NEWSREEL Steering	
+1045	Steering Committee	
+1046	14 workshop	
+1047	ECIR 2014	
+1048	Organiser IIiX	
+1049	Committee EACL	
+1050	2014 Workshop	
+1051	on Personalised	
+1052	Personalised Multilingual	
+1053	Committee KONVENS	
+1054	2012 Industry	
+1055	2012 Workshop	
+1056	on Information	
+1057	Student Research	
+1058	Research Workshop	
+1059	Committee STAIRS	
+1060	ECIR 2011	
+1061	Day Co	
+1062	Chair ECIR	
+1063	ECIR 2010	
+1064	ACL 2010	
+1065	2008 Organising	
+1066	Organising Committee	
+1067	external co	
+1068	co supervisor	
+1069	44 1206	
+1070	Udo The	
+1071	Kruschwitz Research	
+1072	Information Research	
+1073	Research Interests	
+1074	Interests I	
+1075	am a	
+1076	the Language	
+1077	Group LAC	
+1078	LAC here	
+1079	here at	
+1080	at Essex	
+1081	Essex most	
+1082	recent 17th	
+1083	17th LAC	
+1084	Day 21st	
+1085	21st September	
+1086	September 2018	
+1087	2018 earlier	
+1088	earlier events	
+1089	events 16th	
+1090	16th LAC	
+1091	Day 2017	
+1092	2017 15th	
+1093	15th LAC	
+1094	Day 2016	
+1095	2016 14th	
+1096	14th LAC	
+1097	Day 2015	
+1098	2015 13th	
+1099	13th LAC	
+1100	Day 2014	
+1101	2014 12th	
+1102	12th LAC	
+1103	Day 2013	
+1104	2013 11th	
+1105	11th LAC	
+1106	Day 2012	
+1107	2012 10th	
+1108	10th LAC	
+1109	Day 2011	
+1110	2011 .	
+1111	. Check	
+1112	Check out	
+1113	out the	
+1114	the programme	
+1115	programme of	
+1116	our LAC	
+1117	LAC Reading	
+1118	Reading Group	
+1119	. My	
+1120	My research	
+1121	research interests	
+1122	interests are	
+1123	in natural	
+1124	language processing	
+1125	processing NLP	
+1126	NLP information	
+1127	information retrieval	
+1128	retrieval IR	
+1129	IR and	
+1130	the implementation	
+1131	implementation of	
+1132	such techniques	
+1133	techniques in	
+1134	in real	
+1135	real applications	
+1136	applications .	
+1137	The intelligent	
+1138	intelligent directory	
+1139	directory enquiry	
+1140	enquiry assistant	
+1141	assistant YPA	
+1142	YPA project	
+1143	example going	
+1144	going back	
+1145	back quite	
+1146	quite a	
+1147	a few	
+1148	few years	
+1149	years now	
+1150	now ...	
+1151	... where	
+1152	where the	
+1153	of information	
+1154	from partially	
+1155	data together	
+1156	together with	
+1157	with engineering	
+1158	engineering issues	
+1159	issues played	
+1160	played major	
+1161	major roles	
+1162	roles in	
+1163	in making	
+1164	making the	
+1165	the YPA	
+1166	YPA a	
+1167	a usable	
+1168	usable online	
+1169	online system	
+1170	system .	
+1171	. I	
+1172	am developing	
+1173	developing techniques	
+1174	techniques that	
+1175	that allow	
+1176	allow the	
+1177	of conceptual	
+1178	conceptual information	
+1179	from document	
+1180	document collections	
+1181	collections and	
+1182	the utilization	
+1183	utilization of	
+1184	such knowledge	
+1185	knowledge in	
+1186	in retrieval	
+1187	retrieval tasks	
+1188	tasks .	
+1189	The type	
+1190	type of	
+1191	of documents	
+1192	documents can	
+1193	can range	
+1194	range from	
+1195	from Web	
+1196	Web pages	
+1197	pages to	
+1198	to newspaper	
+1199	newspaper articles	
+1200	articles or	
+1201	or other	
+1202	other forms	
+1203	forms of	
+1204	of vaguely	
+1205	vaguely partially	
+1206	data .	
+1207	. For	
+1208	For an	
+1209	example application	
+1210	application that	
+1211	that we	
+1212	we had	
+1213	had in	
+1214	in place	
+1215	place with	
+1216	with BT	
+1217	BT s	
+1218	s mobile	
+1219	mobile workforce	
+1220	workforce have	
+1221	at our	
+1222	our log	
+1223	log analysis	
+1224	analysis study	
+1225	study .	
+1226	. Current	
+1227	Current Projects	
+1228	Projects Ongoing	
+1229	Ongoing Collaboration	
+1230	Collaboration A	
+1231	A five	
+1232	five year	
+1233	year ESRC	
+1234	ESRC Large	
+1235	Large Grant	
+1236	Grant on	
+1237	on Human	
+1238	Human Rights	
+1239	Rights in	
+1240	the Era	
+1241	Era of	
+1242	of Big	
+1243	Big Data	
+1244	Data is	
+1245	now well	
+1246	well underway	
+1247	underway .	
+1248	The Language	
+1249	Group Fox	
+1250	Fox Poesio	
+1251	Kruschwitz plays	
+1252	plays a	
+1253	a significant	
+1254	significant role	
+1255	role in	
+1256	in this	
+1257	project which	
+1258	which also	
+1259	also builds	
+1260	on our	
+1261	our links	
+1262	links with	
+1263	. Watch	
+1264	Watch this	
+1265	this space	
+1266	space A	
+1267	A Centre	
+1268	for Doctoral	
+1269	Doctoral Training	
+1270	Training CDT	
+1271	CDT on	
+1272	on Intelligent	
+1273	Intelligent Games	
+1274	Games and	
+1275	and Game	
+1276	Game Intelligence	
+1277	Intelligence IGGI	
+1278	IGGI offering	
+1279	offering 55	
+1280	55 PhD	
+1281	PhD student	
+1282	student scholarships	
+1283	scholarships over	
+1284	over 8	
+1285	8 years	
+1286	years is	
+1287	is being	
+1288	being funded	
+1289	funded by	
+1290	the EPSRC	
+1291	EPSRC and	
+1292	and supported	
+1293	supported by	
+1294	by our	
+1295	our 60	
+1296	60 industrial	
+1297	industrial partners	
+1298	partners .	
+1299	. To	
+1300	To find	
+1301	out more	
+1302	more explore	
+1303	explore our	
+1304	students profiles	
+1305	profiles The	
+1306	The CDT	
+1307	CDT involves	
+1308	involves the	
+1309	of York	
+1310	York the	
+1311	Essex Queen	
+1312	Queen Mary	
+1313	Mary University	
+1314	London and	
+1315	and Goldsmiths	
+1316	Goldsmiths College	
+1317	College University	
+1318	London .	
+1319	. If	
+1320	you want	
+1321	want to	
+1322	to know	
+1323	know more	
+1324	more drop	
+1325	drop me	
+1326	me an	
+1327	an email	
+1328	email A	
+1329	A three	
+1330	three year	
+1331	year Knowledge	
+1332	project 2014	
+1333	2014 2017	
+1334	2017 involving	
+1335	Group and	
+1336	and Essex	
+1337	Essex Poesio	
+1338	Kruschwitz aimed	
+1339	at new	
+1340	new systems	
+1341	systems to	
+1342	to support	
+1343	support civilian	
+1344	civilian led	
+1345	led monitoring	
+1346	monitoring of	
+1347	human rights	
+1348	rights violations	
+1349	violations .	
+1350	The Iraq	
+1351	Iraq Ceasefire	
+1352	Ceasefire Portal	
+1353	Portal is	
+1354	is one	
+1355	one of	
+1356	the major	
+1357	major outcomes	
+1358	outcomes of	
+1359	The Corpus	
+1360	Corpus of	
+1361	of Violence	
+1362	Violence Acts	
+1363	Acts in	
+1364	in Arabic	
+1365	Arabic Social	
+1366	Social Media	
+1367	Media is	
+1368	an academic	
+1369	academic resource	
+1370	resource described	
+1371	described in	
+1372	in more	
+1373	more detail	
+1374	detail in	
+1375	our LREC	
+1376	2016 paper	
+1377	paper .	
+1378	. A	
+1379	A highly	
+1380	highly successful	
+1381	successful Knowledge	
+1382	project 2013	
+1383	2013 2015	
+1384	2015 was	
+1385	was the	
+1386	the starting	
+1387	starting point	
+1388	point for	
+1389	an ongoing	
+1390	ongoing collaboration	
+1391	collaboration with	
+1392	with Signal	
+1393	Signal Media	
+1394	Media .	
+1395	As the	
+1396	University Lead	
+1397	Lead PI	
+1398	PI I	
+1399	am pleased	
+1400	pleased that	
+1401	that Miguel	
+1402	Miguel Martinez	
+1403	Martinez Alvarez	
+1404	Alvarez who	
+1405	who joined	
+1406	joined us	
+1407	us as	
+1408	as KTP	
+1409	KTP Associate	
+1410	Associate is	
+1411	now Head	
+1412	of Research	
+1413	Research at	
+1414	at Signal	
+1415	Signal .	
+1416	. Here	
+1417	Here is	
+1418	a timeline	
+1419	timeline of	
+1420	of some	
+1421	some exciting	
+1422	exciting news	
+1423	news in	
+1424	our collaboration	
+1425	collaboration November	
+1426	November 2014	
+1427	2014 Miguel	
+1428	Miguel is	
+1429	is named	
+1430	named a	
+1431	a Business	
+1432	Business Leader	
+1433	Leader of	
+1434	of Tomorrow	
+1435	Tomorrow here	
+1436	a short	
+1437	short video	
+1438	video portrait	
+1439	portrait of	
+1440	of Miguel	
+1441	Miguel ...	
+1442	... and	
+1443	more coverage	
+1444	coverage of	
+1445	the event	
+1446	event main	
+1447	main actors	
+1448	actors here	
+1449	here .	
+1450	. April	
+1451	April 2015	
+1452	2015 Best	
+1453	Best demo	
+1454	demo award	
+1455	award at	
+1456	2015 for	
+1457	for Signal	
+1458	Signal demo	
+1459	demo and	
+1460	and even	
+1461	even more	
+1462	more exciting	
+1463	exciting Signal	
+1464	Signal has	
+1465	has just	
+1466	just announced	
+1467	announced that	
+1468	that it	
+1469	it has	
+1470	has raised	
+1471	raised 1.8m	
+1472	1.8m growth	
+1473	growth capital	
+1474	capital from	
+1475	from top	
+1476	top tier	
+1477	tier investors	
+1478	investors see	
+1479	see Techcrunch	
+1480	Techcrunch .	
+1481	. November	
+1482	November 2015	
+1483	2015 Signal	
+1484	Signal project	
+1485	project wins	
+1486	wins Best	
+1487	Best KTP	
+1488	KTP Partnership	
+1489	Partnership Award	
+1490	Award 2015	
+1491	2015 .	
+1492	. February	
+1493	February 2016	
+1494	2016 Project	
+1495	Project features	
+1496	features on	
+1497	on InnovateUK	
+1498	InnovateUK s	
+1499	s home	
+1500	home page	
+1501	page again	
+1502	again .	
+1503	. Another	
+1504	Another landmark	
+1505	landmark Signal	
+1506	Signal closes	
+1507	closes a	
+1508	a 16m	
+1509	16m Series	
+1510	Series B	
+1511	B funding	
+1512	funding round	
+1513	round .	
+1514	. December	
+1515	December 2018	
+1516	2018 new	
+1517	new KTP	
+1518	project confirmed	
+1519	confirmed to	
+1520	to start	
+1521	start in	
+1522	in January	
+1523	January 2019	
+1524	2019 .	
+1525	. Creating	
+1526	Creating anaphorically	
+1527	anaphorically annotated	
+1528	annotated resources	
+1529	resources through	
+1530	through semantic	
+1531	semantic wikis	
+1532	wikis AnaWiki	
+1533	AnaWiki EPSRC	
+1534	EPSRC This	
+1535	project has	
+1536	has led	
+1537	led to	
+1538	the development	
+1539	development of	
+1540	of Phrase	
+1541	Phrase Detectives	
+1542	Detectives an	
+1543	an annotation	
+1544	annotation game	
+1545	game aimed	
+1546	at the	
+1547	the creation	
+1548	creation of	
+1549	of semantically	
+1550	semantically annotated	
+1551	annotated corpora	
+1552	corpora .	
+1553	The DALI	
+1554	DALI project	
+1555	project builds	
+1556	on the	
+1557	the findings	
+1558	findings and	
+1559	and lessons	
+1560	lessons learned	
+1561	learned in	
+1562	in PhraseDetectives	
+1563	PhraseDetectives .	
+1564	. Recent	
+1565	Recent Research	
+1566	Research Development	
+1567	Development Projects	
+1568	Projects The	
+1569	The SENSEI	
+1570	SENSEI FP7	
+1571	FP7 project	
+1572	project started	
+1573	started in	
+1574	November 2013	
+1575	2013 and	
+1576	and finished	
+1577	finished in	
+1578	November 2016	
+1579	2016 .	
+1580	The one	
+1581	one line	
+1582	line aim	
+1583	aim of	
+1584	is to	
+1585	to make	
+1586	make sense	
+1587	sense of	
+1588	human human	
+1589	human conversation	
+1590	conversation by	
+1591	by for	
+1592	for example	
+1593	example applying	
+1594	applying advanced	
+1595	advanced natural	
+1596	language engineering	
+1597	engineering techniques	
+1598	techniques such	
+1599	as anaphora	
+1600	anaphora resolution	
+1601	resolution and	
+1602	and multi	
+1603	multi document	
+1604	document summarization	
+1605	summarization .	
+1606	. Read	
+1607	Read about	
+1608	of SENSEI	
+1609	SENSEI technology	
+1610	technology to	
+1611	to predict	
+1612	predict the	
+1613	the Brexit	
+1614	Brexit results	
+1615	results or	
+1616	or if	
+1617	if you	
+1618	you prefer	
+1619	prefer to	
+1620	to read	
+1621	read articles	
+1622	articles in	
+1623	in Polish	
+1624	Polish have	
+1625	at this	
+1626	this one	
+1627	one .	
+1628	. Automatic	
+1629	Automatic Adaptation	
+1630	Adaptation of	
+1631	of Knowledge	
+1632	Knowledge Structures	
+1633	Structures for	
+1634	for Assisted	
+1635	Assisted Information	
+1636	Information Seeking	
+1637	Seeking AutoAdapt	
+1638	AutoAdapt a	
+1639	Engineering Robert	
+1640	Robert Gordon	
+1641	Gordon University	
+1642	University Aberdeen	
+1643	Aberdeen and	
+1644	the Open	
+1645	Open University	
+1646	University .	
+1647	. This	
+1648	project developed	
+1649	developed and	
+1650	and evaluated	
+1651	evaluated methods	
+1652	methods for	
+1653	for adapting	
+1654	adapting automatically	
+1655	automatically constructed	
+1656	constructed domain	
+1657	domain models	
+1658	models to	
+1659	the population	
+1660	population of	
+1661	of users	
+1662	users search	
+1663	search or	
+1664	or browsing	
+1665	browsing behaviour	
+1666	behaviour .	
+1667	. Application	
+1668	Application and	
+1669	and large	
+1670	large scale	
+1671	scale evaluation	
+1672	evaluation of	
+1673	the developed	
+1674	developed methods	
+1675	methods in	
+1676	in two	
+1677	two information	
+1678	information seeking	
+1679	seeking scenarios	
+1680	scenarios namely	
+1681	namely interactive	
+1682	interactive search	
+1683	search and	
+1684	and browsing	
+1685	browsing were	
+1686	were the	
+1687	the focus	
+1688	focus of	
+1689	of this	
+1690	AI is	
+1691	project that	
+1692	that follows	
+1693	follows on	
+1694	on from	
+1695	the Patient	
+1696	Patient Experience	
+1697	Experience and	
+1698	and Public	
+1699	Public Engagement	
+1700	Engagement Blogs	
+1701	Blogs PEBL	
+1702	PEBL project	
+1703	AI will	
+1704	will result	
+1705	result in	
+1706	in an	
+1707	an automated	
+1708	automated interface	
+1709	interface between	
+1710	between clinical	
+1711	clinical commissioner	
+1712	commissioner groups	
+1713	groups CCGs	
+1714	CCGs and	
+1715	the communities	
+1716	communities they	
+1717	they serve	
+1718	serve .	
+1719	of a	
+1720	a career	
+1721	career path	
+1722	path framework	
+1723	framework a	
+1724	and JobServe	
+1725	JobServe the	
+1726	the world	
+1727	world s	
+1728	s first	
+1729	first Internet	
+1730	Internet Recruitment	
+1731	Recruitment Service	
+1732	Service .	
+1733	of an	
+1734	an intelligent	
+1735	intelligent mail	
+1736	mail server	
+1737	server a	
+1738	and Active	
+1739	Active Web	
+1740	Web Solutions	
+1741	Solutions AWS	
+1742	AWS an	
+1743	an Ipswich	
+1744	Ipswich based	
+1745	based company	
+1746	company devoted	
+1747	devoted to	
+1748	to cutting	
+1749	cutting edge	
+1750	edge enterprise	
+1751	enterprise information	
+1752	information systems	
+1753	systems .	
+1754	. Learning	
+1755	Learning Disabilities	
+1756	Disabilities Data	
+1757	Data and	
+1758	and Information	
+1759	Information Infrastructure	
+1760	Infrastructure Project	
+1761	Project ESRC	
+1762	ESRC Markup	
+1763	Markup Based	
+1764	Based Knowledge	
+1765	Extraction Project	
+1766	Project EPSRC	
+1767	EPSRC Intelligent	
+1768	Intelligent Directory	
+1769	Directory Enquiry	
+1770	Enquiry YPA	
+1771	YPA Project	
+1772	Project BT	
+1773	BT Current	
+1774	Current Recent	
+1775	Recent Involvements	
+1776	Involvements Panel	
+1777	Panel chair	
+1778	chair of	
+1779	the Karen	
+1780	Karen Sp	
+1781	Sp rck	
+1782	rck Jones	
+1783	Jones Award	
+1784	Award here	
+1785	is the	
+1786	the most	
+1787	recent call	
+1788	call Committee	
+1789	Committee member	
+1790	member ...	
+1791	... read	
+1792	read more	
+1793	more about	
+1794	the IRSG	
+1795	IRSG here	
+1796	here Winter	
+1797	Winter 2019	
+1798	2019 IRSG	
+1799	IRSG newsletter	
+1800	newsletter Text	
+1801	Text Analytics	
+1802	Analytics Meetup	
+1803	organiser Game	
+1804	Game AI	
+1805	AI Meetup	
+1806	organiser ACL	
+1807	ACL 2019	
+1808	2019 Area	
+1809	Area Chair	
+1810	Chair for	
+1811	for Resources	
+1812	Resources and	
+1813	and Evaluation	
+1814	Evaluation ECIR	
+1815	2019 Industry	
+1816	Day Organiser	
+1817	SIGIR 2019	
+1818	demos workshops	
+1819	workshops Industry	
+1820	Track SIRIP	
+1821	SIRIP ECIR	
+1822	2019 Senior	
+1823	Consortium Committee	
+1824	HLT 2019	
+1825	Text2Story 19	
+1826	19 workshop	
+1827	CHIIR 2019	
+1828	Conference 2019	
+1829	WSDM 2019	
+1830	Committee Outstanding	
+1831	Outstanding PC	
+1832	PC member	
+1833	member AAAI	
+1834	AAAI 2019	
+1835	Committee UISTDA	
+1836	UISTDA 2019	
+1837	SwissText 2019	
+1838	Committee LDK	
+1839	LDK 2019	
+1840	Solutions 2018	
+1841	2018 Co	
+1842	Organiser EMNLP	
+1843	EMNLP 2018	
+1844	demos Professional	
+1845	Professional Search	
+1846	Search Workshop	
+1847	Workshop ProfS2018	
+1848	ProfS2018 at	
+1849	Chair AIRS	
+1850	AIRS 2018	
+1851	Games4NLP 2018	
+1852	2018 at	
+1853	at LREC	
+1854	Chair FDIA	
+1855	FDIA 2018	
+1856	Committee HCOMP	
+1857	HCOMP 2018	
+1858	ICTIR 2018	
+1859	2018 Sponsorship	
+1860	Sponsorship Co	
+1861	Chair CHIIR	
+1862	CHIIR 2018	
+1863	Conference 2018	
+1864	WSDM 2018	
+1865	HLT 2018	
+1866	CIKM 2018	
+1867	2018 Senior	
+1868	Committee Tutorials	
+1869	Tutorials Demos	
+1870	Demos DIR	
+1871	DIR 2018	
+1872	Text2Story 18	
+1873	Committee Keynote	
+1874	Keynote NewsIR	
+1875	NewsIR 18	
+1876	2018 Scientific	
+1877	SwissText 2018	
+1878	ISWC 2018	
+1879	Solutions 2017	
+1880	SIGIR 2017	
+1881	demos tutorials	
+1882	tutorials Outstanding	
+1883	Outstanding Reviewer	
+1884	Reviewer Award	
+1885	Award RANLP	
+1886	RANLP 2017	
+1887	Committee FDIA	
+1888	FDIA 2017	
+1889	Committee AIRS	
+1890	AIRS 2017	
+1891	papers Mindtrek	
+1892	Mindtrek 2017	
+1893	2017 Data	
+1894	Data Driven	
+1895	Driven Gamification	
+1896	Gamification Design	
+1897	Design Worksop	
+1898	Worksop Programme	
+1899	CIKM 2017	
+1900	ISWC 2017	
+1901	Games4NLP 2017	
+1902	ECIR 2017	
+1903	2017 Senior	
+1904	Committee Short	
+1905	Short Papers	
+1906	Papers Demos	
+1907	Demos Industry	
+1908	Day co	
+1909	co chair	
+1910	chair WWW	
+1911	WWW 2017	
+1912	Track ESWC	
+1913	ESWC 2017	
+1914	Chair NLP	
+1915	NLP IR	
+1916	Track MultiLing	
+1917	MultiLing 2017	
+1918	CHIIR 2017	
+1919	Committee MMM	
+1920	MMM 2017	
+1921	Solutions 2016	
+1922	Organiser Gamification	
+1923	GamifIR 16	
+1924	16 workshop	
+1925	demos AIRS	
+1926	AIRS 2016	
+1927	papers CIKM	
+1928	CIKM 2016	
+1929	on Accessing	
+1930	Accessing Cultural	
+1931	Cultural Heritage	
+1932	Heritage at	
+1933	at Scale	
+1934	Scale at	
+1935	on Recent	
+1936	Recent Advances	
+1937	Advances in	
+1938	in News	
+1939	News Information	
+1940	Retrieval NewsIR	
+1941	NewsIR 16	
+1942	16 at	
+1943	Organiser KONVENS	
+1944	KONVENS 2016	
+1945	2016 Reviewing	
+1946	Board WSDM	
+1947	WSDM 2016	
+1948	CHIIR 2016	
+1949	2016 Senior	
+1950	Committee PC	
+1951	PC Demos	
+1952	Demos LREC	
+1953	2016 Scientific	
+1954	Committee ACHS	
+1955	ACHS Workshop	
+1956	Workshop at	
+1957	ESWC 2016	
+1958	Solutions 2015	
+1959	Organiser MultiLing	
+1960	MultiLing 2015	
+1961	CIKM 2015	
+1962	Track AIRS	
+1963	AIRS 2015	
+1964	Committee JCDL	
+1965	JCDL 2015	
+1966	2015 Tutorials	
+1967	Tutorials Co	
+1968	Chair SIGIR	
+1969	SIGIR 2015	
+1970	papers FDIA	
+1971	FDIA 2015	
+1972	GamifIR 15	
+1973	15 workshop	
+1974	2015 Senior	
+1975	Committee Panellist	
+1976	Panellist AAAI	
+1977	AAAI 2015	
+1978	2015 Student	
+1979	CLEF 2015	
+1980	2015 News	
+1981	ESWC 2015	
+1982	ACL 2015	
+1983	2015 Workshop	
+1984	RANLP 2015	
+1985	Intelligence 2015	
+1986	IR 2015	
+1987	Solutions 2014	
+1988	SIGIR 2014	
+1989	SIGIR Symposium	
+1990	Symposium on	
+1991	on IR	
+1992	IR in	
+1993	in Practice	
+1994	Practice SIRIP	
+1995	SIRIP 2014	
+1996	GamifIR 14	
+1997	Organiser Beyond	
+1998	Beyond single	
+1999	single shot	
+2000	shot text	
+2001	text queries	
+2002	queries bridging	
+2003	bridging the	
+2004	the gap	
+2005	gap s	
+2006	s between	
+2007	between research	
+2008	research communities	
+2009	communities MindTheGap	
+2010	MindTheGap 14	
+2011	at iConference	
+2012	iConference 2014	
+2013	IIiX 2014	
+2014	Conference 2014	
+2015	LREC 2014	
+2016	2014 Scientific	
+2017	EACL 2014	
+2018	Committee UMAP	
+2019	UMAP 2014	
+2020	Multilingual Information	
+2021	Access Programme	
+2022	CLEF 2014	
+2023	2014 News	
+2024	KONVENS 2014	
+2025	2014 Reviewing	
+2026	Board MMM	
+2027	MMM 2014	
+2028	2014 Demo	
+2029	Chair AAAI	
+2030	AAAI 2014	
+2031	2014 Student	
+2032	Intelligence 2014	
+2033	Solutions 2013	
+2034	2013 Co	
+2035	2013 Short	
+2036	Short Paper	
+2037	Paper and	
+2038	and Demo	
+2039	Chair Programme	
+2040	2013 BARS	
+2041	BARS Workshop	
+2042	2013 ENRICH	
+2043	ENRICH Workshop	
+2044	RANLP 2013	
+2045	Committee IJCNLP	
+2046	IJCNLP 2013	
+2047	ECIR 2013	
+2048	Committee DIR	
+2049	DIR 2013	
+2050	Conference 2013	
+2051	Intelligence 2013	
+2052	IR 2013	
+2053	ESWC 2013	
+2054	Committee AAAI	
+2055	AAAI 2013	
+2056	2013 Student	
+2057	ACL 2013	
+2058	2013 Workshop	
+2059	FDIA 2013	
+2060	Solutions 2012	
+2061	2012 Co	
+2062	SIGIR 2012	
+2063	Track Co	
+2064	Chair Industry	
+2065	Track Presentations	
+2066	Presentations online	
+2067	online IIiX	
+2068	IIiX 2012	
+2069	Day Programme	
+2070	Retrieval Over	
+2071	Over Query	
+2072	Query Sessions	
+2073	Sessions SIR2012	
+2074	SIR2012 Programme	
+2075	Conference 2012	
+2076	KONVENS 2012	
+2077	2012 Reviewing	
+2078	Board NAACL	
+2079	NAACL Student	
+2080	Workshop and	
+2081	Consortium 2012	
+2082	EACL 2012	
+2083	2012 Joint	
+2084	Joint Workshop	
+2085	Retrieval and	
+2086	and Hybrid	
+2087	Hybrid Machine	
+2088	Machine Translation	
+2089	Translation Programme	
+2090	LREC 2012	
+2091	on Creating	
+2092	Creating Cross	
+2093	Cross language	
+2094	language Resources	
+2095	Resources for	
+2096	for Disconnected	
+2097	Disconnected Languages	
+2098	Languages and	
+2099	and Styles	
+2100	Styles Programme	
+2101	Intelligence 2012	
+2102	STAIRS 2012	
+2103	Solutions 2011	
+2104	2011 Co	
+2105	2011 Industry	
+2106	FDIA 2011	
+2107	Committee WWW	
+2108	WWW 2011	
+2109	Committee Content	
+2110	Content Analysis	
+2111	Analysis Track	
+2112	Track IRF	
+2113	Conference 2011	
+2114	and Invited	
+2115	Invited Panelist	
+2116	Panelist ACL	
+2117	ACL HLT	
+2118	HLT 2011	
+2119	2011 Student	
+2120	Student Session	
+2121	Session Programme	
+2122	Committee ACM	
+2123	ACM Hypertext	
+2124	Hypertext Workshop	
+2125	Multilingual Hypertext	
+2126	Hypertext Retrieval	
+2127	Retrieval PMHR	
+2128	PMHR 2011	
+2129	Intelligence 2011	
+2130	Solutions 2010	
+2131	2010 Co	
+2132	Organiser Missed	
+2133	Missed it	
+2134	it Read	
+2135	Read our	
+2136	our article	
+2137	article in	
+2138	in ITNow	
+2139	ITNow ACM	
+2140	ACM CIKM	
+2141	CIKM 2010	
+2142	2010 Demo	
+2143	Chair Missed	
+2144	Missed the	
+2145	the conference	
+2146	conference Conference	
+2147	Conference report	
+2148	report in	
+2149	in SIGIR	
+2150	SIGIR Forum	
+2151	Forum ECIR	
+2152	2010 Industry	
+2153	IIiX 2010	
+2154	Committee ECAI	
+2155	ECAI 2010	
+2156	STAIRS 2010	
+2157	Conference 2010	
+2158	2010 Student	
+2159	RANLP 2009	
+2160	Committee MinUCS	
+2161	MinUCS 2009	
+2162	ICTIR 2009	
+2163	FDIA 2009	
+2164	Committee NODALIDA	
+2165	NODALIDA 2009	
+2166	Committee Special	
+2167	Special Issue	
+2168	Issue of	
+2169	the Journal	
+2170	Journal Of	
+2171	Of Natural	
+2172	Engineering on	
+2173	on Interactive	
+2174	Interactive QA	
+2175	QA 2009	
+2176	2009 Guest	
+2177	Guest Editorial	
+2178	Editorial Board	
+2179	Board Corpus	
+2180	Corpus Profiling	
+2181	Profiling Workshop	
+2182	Workshop 2008	
+2183	2008 co	
+2184	co located	
+2185	located with	
+2186	with Information	
+2187	Information Interaction	
+2188	Interaction in	
+2189	in Context	
+2190	Context IIiX	
+2191	IIiX 2008	
+2192	Committee ECML	
+2193	ECML PKDD	
+2194	PKDD Workshop	
+2195	on High	
+2196	High level	
+2197	level Information	
+2198	Information Extraction	
+2199	Extraction 2008	
+2200	FDIA 2008	
+2201	Committee Flatlands	
+2202	Flatlands 2008	
+2203	Committee organised	
+2204	organised by	
+2205	the Essex	
+2206	Essex Language	
+2207	Group ECIR	
+2208	ECIR 2008	
+2209	SIGIR 2007	
+2210	2007 Demonstration	
+2211	Demonstration Committee	
+2212	RANLP 2007	
+2213	2007 Programme	
+2214	Committee Teaching	
+2215	Teaching 2018	
+2216	2018 19	
+2217	19 Information	
+2218	Retrieval CE306	
+2219	CE306 CE706	
+2220	CE706 PhD	
+2221	PhD Students	
+2222	Students some	
+2223	some co	
+2224	co supervised	
+2225	supervised Dr	
+2226	Dr Deirdre	
+2227	Deirdre Lungley	
+2228	Lungley Dr	
+2229	Dr Mahmoud	
+2230	Mahmoud El	
+2231	El Haj	
+2232	Haj Dr	
+2233	Dr M	
+2234	M Dyaa	
+2235	Dyaa Albakour	
+2236	Albakour Dr	
+2237	Dr Suma	
+2238	Suma Adindla	
+2239	Adindla Dr	
+2240	Dr Sharhida	
+2241	Sharhida Saad	
+2242	Saad Dr	
+2243	Dr Azhar	
+2244	Azhar Alhindi	
+2245	Alhindi Dr	
+2246	Dr Jon	
+2247	Jon Chamberlain	
+2248	Chamberlain Dr	
+2249	Dr Roseline	
+2250	Roseline Antai	
+2251	Antai Dr	
+2252	Dr Fawaz	
+2253	Fawaz Alarfaj	
+2254	Alarfaj Dr	
+2255	Dr Maha	
+2256	Maha Althobaiti	
+2257	Althobaiti Dr	
+2258	Dr Silviu	
+2259	Silviu Paun	
+2260	Paun Ans	
+2261	Ans Alghamdi	
+2262	Alghamdi Passed	
+2263	Passed subject	
+2264	subject to	
+2265	to corrections	
+2266	corrections David	
+2267	David Gundry	
+2268	Gundry external	
+2269	supervisor Rob	
+2270	Rob Homewood	
+2271	Homewood external	
+2272	supervisor Chris	
+2273	Chris Madge	
+2274	Madge Dino	
+2275	Dino Ratcliffe	
+2276	Ratcliffe Steve	
+2277	Steve Zimmerman	
+2278	Zimmerman Publications	
+2279	Publications Selected	
+2280	Selected Publications	
+2281	Publications Foundation	
+2282	Foundation and	
+2283	and Trends	
+2284	Trends in	
+2285	Retrieval Book	
+2286	Book Searching	
+2287	Searching the	
+2288	the Enterprise	
+2289	Enterprise Review	
+2290	by Martin	
+2291	Martin White	
+2292	White IntranetFocus	
+2293	IntranetFocus Springer	
+2294	Springer Book	
+2295	Book Intelligent	
+2296	Retrieval Review	
+2297	by Informer	
+2298	Informer Newsletter	
+2299	Newsletter of	
+2300	the BCS	
+2301	BCS IRSG	
+2302	IRSG Review	
+2303	by ACM	
+2304	ACM Computing	
+2305	Computing Reviews	
+2306	Reviews Udo	
+2307	Kruschwitz University	
+2308	Essex School	
+2309	Engineering Wivenhoe	
+2310	3SQ tel	
+2311	tel 44	
+2312	1206 872669	
+2313	872669 fax	
+2314	fax 44	
+2315	1206 872788	
+2316	872788 email	
+2317	email udo	
+2318	udo essex.ac.uk	
+2319	essex.ac.uk 1997	
+2320	1997 2018	
+2321	2018 The	
+2322	Udo last	
+2323	last change	
+2324	change 19	
+2325	19 February	
+2326	February 2019	
+After Indexing Keywords for,http://csee.essex.ac.uk/staff/udo/index.htmlWe have:
+
+Index	Phrases
+1	Programme Committee	
+2	2018 Programme	
+3	Co Organiser	
+4	Co Chair	
+5	2017 Programme	
+6	Workshop on	
+7	Information Retrieval	
+8	2019 Programme	
+9	Committee Search	
+10	Search Solutions	
+11	2015 Programme	
+12	2013 Programme	
+13	LAC Day	
+14	Committee ECIR	
+15	2016 Programme	
+16	at ECIR	
+17	short papers	
+18	workshop at	
+19	Organiser SIGIR	
+20	2014 Programme	
+21	2012 Programme	
+22	2011 Programme	
+23	2010 Programme	
+24	KTP project	
+25	Industry Day	
+26	Committee full	
+27	Senior Programme	
+28	Committee SIGIR	
+29	Committee IEEE	
+30	IEEE WIC	
+31	WIC ACM	
+32	ACM International	
+33	International Conference	
+34	Conference on	
+35	on Web	
+36	Web Intelligence	
+37	IRF Conference	
+38	Information Access	
+39	in Information	
+40	2009 Programme	
+41	Udo Kruschwitz	
+42	The Udo	
+43	and the	
+44	involving the	
+45	papers demos	
+46	Committee ACL	
+47	Committee RANLP	
+48	Committee IRF	
+49	Committee Future	
+50	Future Directions	
+51	Directions in	
+52	Access FDIA	
+53	Knowledge Extraction	
+54	Research Information	
+55	Intelligent Document	
+56	Document Retrieval	
+57	Natural Language	
+58	Language Engineering	
+59	I am	
+60	Language and	
+61	and Computation	
+62	Computation Group	
+63	is a	
+64	ECIR 2015	
+65	project involving	
+66	the School	
+67	ECIR 2019	
+68	Industry Track	
+69	Committee CHIIR	
+70	Committee User	
+71	User Modeling	
+72	Modeling Personalization	
+73	Personalization Experience	
+74	Experience Track	
+75	Programme Co	
+76	Committee CIKM	
+77	ECIR 2018	
+78	Committee LREC	
+79	Scientific Committee	
+80	full short	
+81	2016 Co	
+82	Gamification for	
+83	for Information	
+84	Retrieval GamifIR	
+85	Reviewing Board	
+86	Committee ESWC	
+87	Committee IR	
+88	Student Program	
+89	Program Programme	
+90	on Hybrid	
+91	Hybrid Approaches	
+92	Approaches to	
+93	to Translation	
+94	Translation HyTra	
+95	HyTra Programme	
+96	2014 Co	
+97	Demo Co	
+98	SIGIR 2013	
+99	Workshop Programme	
+100	ECIR 2012	
+101	2008 Programme	
+102	Review by	
+103	Kruschwitz Web	
+104	Web search	
+105	search technology	
+106	technology search	
+107	search engines	
+108	engines YPA	
+109	YPA Information	
+110	Retrieval IR	
+111	IR Knowledge	
+112	Extraction Ontologies	
+113	Ontologies Research	
+114	Information Intelligent	
+115	Retrieval Springer	
+116	Springer book	
+117	book Natural	
+118	Engineering The	
+119	Udo Udo	
+120	most recent	
+121	Group .	
+122	natural language	
+123	of such	
+124	project is	
+125	is an	
+126	an example	
+127	the extraction	
+128	extraction of	
+129	information from	
+130	partially structured	
+131	structured data	
+132	a look	
+133	look at	
+134	is now	
+135	Poesio Kruschwitz	
+136	this project	
+137	builds on	
+138	the Minority	
+139	Minority Rights	
+140	Rights Group	
+141	of London	
+142	Transfer Partnership	
+143	Partnership KTP	
+144	aimed at	
+145	of human	
+146	the project	
+147	in our	
+148	LREC 2016	
+149	here is	
+150	This project	
+151	in November	
+152	about the	
+153	a project	
+154	. PEBL	
+155	PEBL AI	
+156	. Development	
+157	Development of	
+158	a KTP	
+159	Engineering and	
+160	Meetup in	
+161	in London	
+162	London Co	
+163	Co organiser	
+164	full papers	
+165	papers short	
+166	Committee and	
+167	and Doctoral	
+168	Doctoral Consortium	
+169	Committee NAACL	
+170	NAACL HLT	
+171	Committee Text2Story	
+172	Committee The	
+173	The Web	
+174	Web Conference	
+175	Track WSDM	
+176	Committee SwissText	
+177	SIGIR 2018	
+178	at SIGIR	
+179	Committee Games4NLP	
+180	LREC 2018	
+181	Committee ICTIR	
+182	18 workshop	
+183	Committee ISWC	
+184	2017 Co	
+185	Committee short	
+186	IR Track	
+187	SIGIR 2016	
+188	Committee Workshop	
+189	at JCDL	
+190	JCDL 2016	
+191	ECIR 2016	
+192	2015 Co	
+193	Committee Gamification	
+194	Organiser ECIR	
+195	Committee CLEF	
+196	News Recommender	
+197	Recommender Challenge	
+198	Challenge NEWSREEL	
+199	NEWSREEL Steering	
+200	Steering Committee	
+201	14 workshop	
+202	ECIR 2014	
+203	Organiser IIiX	
+204	Committee EACL	
+205	2014 Workshop	
+206	on Personalised	
+207	Personalised Multilingual	
+208	Committee KONVENS	
+209	2012 Industry	
+210	2012 Workshop	
+211	on Information	
+212	Student Research	
+213	Research Workshop	
+214	Committee STAIRS	
+215	ECIR 2011	
+216	Day Co	
+217	Chair ECIR	
+218	ECIR 2010	
+219	ACL 2010	
+220	2008 Organising	
+221	Organising Committee	
+222	external co	
+223	co supervisor	
+224	44 1206	
+225	Udo The	
+226	Kruschwitz Research	
+227	Information Research	
+228	Research Interests	
+229	Interests I	
+230	am a	
+231	the Language	
+232	Group LAC	
+233	LAC here	
+234	here at	
+235	at Essex	
+236	Essex most	
+237	recent 17th	
+238	17th LAC	
+239	Day 21st	
+240	21st September	
+241	September 2018	
+242	2018 earlier	
+243	earlier events	
+244	events 16th	
+245	16th LAC	
+246	Day 2017	
+247	2017 15th	
+248	15th LAC	
+249	Day 2016	
+250	2016 14th	
+251	14th LAC	
+252	Day 2015	
+253	2015 13th	
+254	13th LAC	
+255	Day 2014	
+256	2014 12th	
+257	12th LAC	
+258	Day 2013	
